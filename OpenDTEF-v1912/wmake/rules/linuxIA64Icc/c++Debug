@@ -1,2 +1,2 @@
-c++DBUG    = -g -DFULLDEBUG -O0
+c++DBUG    = -g -DFULLDEBUG -O0 -fprofile-arcs -ftest-coverage
 c++OPT     =

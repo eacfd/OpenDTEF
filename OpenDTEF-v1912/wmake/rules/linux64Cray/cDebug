@@ -1,2 +1,2 @@
-cDBUG       = -ggdb -DFULLDEBUG
+cDBUG       = -ggdb -DFULLDEBUG -g -fprofile-arcs -ftest-coverage
 cOPT        = -O1 -fdefault-inline -finline-functions

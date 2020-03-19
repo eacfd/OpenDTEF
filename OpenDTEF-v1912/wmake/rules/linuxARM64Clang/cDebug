@@ -1,2 +1,2 @@
-cDBUG       = -g -DFULLDEBUG
+cDBUG       = -g -DFULLDEBUG -fprofile-arcs -ftest-coverage
 cOPT        = -O0

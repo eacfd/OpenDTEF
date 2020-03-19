@@ -1,2 +1,2 @@
-c++DBUG     = -ggdb3 -DFULLDEBUG
+c++DBUG     = -ggdb3 -DFULLDEBUG -g -fprofile-arcs -ftest-coverage
 c++OPT      = -O0 -fdefault-inline
